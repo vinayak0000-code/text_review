@@ -92,7 +92,7 @@ if st.button("Text Analysis"):
   st.success('Model has predicted {}'.format(result))
       
 if st.button("About"):
-  st.subheader("Developed by Jitendra Kumawat")
+  st.subheader("Developed by kapil vinayak")
   st.subheader("3rd Year Student , Department of Computer Engineering")
 html_temp = """
    <div class="" style="background-color:orange;" >
